@@ -40,9 +40,11 @@ Create a `Zoo` class with an `animals` property that is a list of all of the ani
 
 ### Creating a `Zoo` Class
 
+The `Zoo` class should keep track of all the of the animals in the zoo using an array.
+
 The `Zoo` class should have the following methods:
 
-* `addAnimal` -- adds an animal to the list 
+* `addAnimal` -- adds an animal to the array of animals 
 * `displayAnimals` -- displays information for all animals
 * `feedAnimals` -- feeds all animals
 * `listenToAnimals` -- listens to all the animals

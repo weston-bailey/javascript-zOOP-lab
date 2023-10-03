@@ -40,9 +40,11 @@ Create a `Zoo` class with an `animals` property that is a list of all of the ani
 
 ### Creating a `Zoo` Class
 
+The `Zoo` class should keep track of all the of the animals in the zoo using an array.
+
 The `Zoo` class should have the following methods:
 
-* `addAnimal` -- adds an animal to the list 
+* `addAnimal` -- adds an animal to the array of animals 
 * `displayAnimals` -- displays information for all animals
 * `feedAnimals` -- feeds all animals
 * `listenToAnimals` -- listens to all the animals
@@ -89,7 +91,6 @@ animals you create.
 
 ## Further Reading
 
-This lab asks you to implement what is referred to as the [Strategy Pattern](https://en.wikipedia.org/wiki/Strategy_pattern), which is a object oriented [Design Pattern](https://en.wikipedia.org/wiki/Software_design_pattern) made famous by the [Gang of Four Design Patterns Book](https://en.wikipedia.org/wiki/Design_Patterns), a seminal software engineering text on OOP. More info about the Strategy Pattern can be found [here](https://www.geeksforgeeks.org/strategy-pattern-set-1/#).
+This lab asks you to implement what is referred to as the [Composite](https://en.wikipedia.org/wiki/Composite_pattern), which is a object oriented [Design Pattern](https://en.wikipedia.org/wiki/Software_design_pattern) made famous by the [Gang of Four Design Patterns Book](https://en.wikipedia.org/wiki/Design_Patterns), a seminal software engineering text on OOP. More info about the Strategy Pattern can be found [here](https://www.geeksforgeeks.org/strategy-pattern-set-1/#).
 
 MDN contains a [wonderfully complete tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_Classes) on JS Classes containing even more than we have covered together.
-
